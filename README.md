@@ -30,9 +30,11 @@ II) Applied K-Means for analyzing pictures:
 
 3) Visualization:
 - Original picture:
+
 ![a](https://user-images.githubusercontent.com/63906418/130405761-bdd952c7-314b-449f-9ecd-2b265fbe86bf.JPG)
 
 - Picture after using K-Means Algorithm:
+
 ![Kmeans(K=4)](https://user-images.githubusercontent.com/63906418/130405603-55e03a62-5462-4f50-a0fa-4381ef643a31.png)
 
 III) Algorithm Linear Regression:
@@ -44,9 +46,11 @@ III) Algorithm Linear Regression:
 
 3)Visualization:
 - Line graph:
+
 ![linear_regression (line)](https://user-images.githubusercontent.com/63906418/130412790-84cc2367-3e4c-4633-92c2-26594c0d9db1.png)
 
 - Parabol graph:
+
 ![linear_regression(parabol)](https://user-images.githubusercontent.com/63906418/130412831-6bfcb845-782b-4035-8f7c-fa70ea21ef58.png)
 
 IV) Gradient Descent:
@@ -57,6 +61,7 @@ IV) Gradient Descent:
 - The most common approach is to start from a point that we consider close to the solution of the problem, and then use an iterative operation to progress to the desired point, i.e., until the derivative is close to zero.
 
 3) Visualization:
+
 ![GD_for_Linear_Regression](https://user-images.githubusercontent.com/63906418/130415431-9241fa7f-00f3-4cad-a73a-3dec9490b4ba.png)
 
 V) K Nearest Neighbor:
